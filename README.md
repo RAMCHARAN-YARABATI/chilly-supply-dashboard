@@ -55,7 +55,7 @@ The main objective of this project is to visualize trust and behavior of local f
 ## 📥 Files
 
 - chilly_farmer_supply_records.xlsx 
--   
+- project2.pbix
 
 ---
 
