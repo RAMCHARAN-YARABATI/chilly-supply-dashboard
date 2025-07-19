@@ -54,8 +54,8 @@ The main objective of this project is to visualize trust and behavior of local f
 
 ## 📥 Files
 
-- [Download Dashboard (.pbix)](./chilly-dashboard.pbix)  
-- [Raw Dataset (.xlsx)](./Chilly_Delivery_Data.xlsx)  
+- chilly_farmer_supply_records.xlsx 
+-   
 
 ---
 
